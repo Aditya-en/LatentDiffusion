@@ -2,3 +2,4 @@ __pycache__
 Landscape Classification
 .ipynb_checkpoints
 data_preprocess.ipynb
+__pycache__/
