@@ -10,7 +10,7 @@ A Latent Diffusion Model (LDM) is a generative model that learns to generate dat
 2. **Reverse Process**: Learning to reverse the noise addition through a neural network.
 3. **Latent Space**: Performing these operations in a compressed latent space to reduce computational complexity.
 
-![Latent Diffusion Architecture](diffusion_architecture.png)  
+![Latent Diffusion Architecture](diffusion_architecture.jpeg)  
 
 ### Key Components
 - **ResNet Blocks**: Capture local spatial features through convolutional layers.
